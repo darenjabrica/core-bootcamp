@@ -1,0 +1,269 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\STUDENT\\Downloads\\core-bootcamp\\01-solidity\\contracts\\01_solidity_data_types.sol": {
+      "lastModificationDate": 1740373453171,
+      "contentHash": "46a66d2e075eec5ad4b794cd03981d69",
+      "sourceName": "contracts/01_solidity_data_types.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "SolidityDataTypes"
+      ]
+    },
+    "C:\\Users\\STUDENT\\Downloads\\core-bootcamp\\01-solidity\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1740373245024,
+      "contentHash": "681c532e816169606d13a5fe8b475074",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "C:\\Users\\STUDENT\\Downloads\\core-bootcamp\\01-solidity\\contracts\\06_solidity_events.sol": {
+      "lastModificationDate": 1740373368939,
+      "contentHash": "afaa772c01e4ec7aab58d57ac356fec9",
+      "sourceName": "contracts/06_solidity_events.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "SolidityEvents"
+      ]
+    },
+    "C:\\Users\\STUDENT\\Downloads\\core-bootcamp\\01-solidity\\contracts\\05_solidity_errors.sol": {
+      "lastModificationDate": 1740373368038,
+      "contentHash": "04786965096636f84d6e62198af5bbad",
+      "sourceName": "contracts/05_solidity_errors.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "SolidityErrors"
+      ]
+    },
+    "C:\\Users\\STUDENT\\Downloads\\core-bootcamp\\01-solidity\\contracts\\04_solidity_modifiers.sol": {
+      "lastModificationDate": 1740373367245,
+      "contentHash": "81e9b7fd88d739b1008bf189231c1025",
+      "sourceName": "contracts/04_solidity_modifiers.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "SolidityModifiers"
+      ]
+    },
+    "C:\\Users\\STUDENT\\Downloads\\core-bootcamp\\01-solidity\\contracts\\03_solidity_functions.sol": {
+      "lastModificationDate": 1740373365928,
+      "contentHash": "fce515679898d992f915533b6c27aaa4",
+      "sourceName": "contracts/03_solidity_functions.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "SolidityFunctions"
+      ]
+    },
+    "C:\\Users\\STUDENT\\Downloads\\core-bootcamp\\01-solidity\\contracts\\02_solidity_constructor.sol": {
+      "lastModificationDate": 1740373363750,
+      "contentHash": "91a7ed5294e44d3c406def5b58c3f7d4",
+      "sourceName": "contracts/02_solidity_constructor.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [
+        "hardhat/console.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "SolidityConstructor"
+      ]
+    }
+  }
+}
