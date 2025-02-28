@@ -1,0 +1,12 @@
+{
+    "name": "CoCoin",
+    "description": "A unique CoCoin NFT",
+    "symbol": "FCW",
+    "image": "https://imgur.com/a/8yah4Pk.jpeg",
+    "attributes": [
+        {
+        "trait_type": "Coin",
+        "value": "Coco"
+        }
+    ]
+}
